@@ -17,6 +17,7 @@ html {
 
 main {
   width: 325px;
+  height: 515px;
   padding: 5px;
   background-color: #0d1116 ; 
   color: #DBC8AC;
@@ -52,7 +53,7 @@ footer{
 
 .button:hover {
   width: 66px;
-  padding: 20px;
+  padding: 22px;
   margin: 0 3px;
   color: #EEF2E6;
   border-radius: 25px;
